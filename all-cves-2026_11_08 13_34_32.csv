@@ -1,0 +1,151 @@
+﻿CveId,Severity,PackageName,PackageVersion,Ecosystem,FixedVersion,Source,Cwes,Repository,Reference
+CVE-2026-44432,High,urllib3,">=1.26,<3",pypi,2.7.0,NVD,409,automation_dataset,main
+CVE-2026-21441,High,urllib3,">=1.26,<3",pypi,2.6.3,NVD,409,automation_dataset,main
+CVE-2025-66471,High,urllib3,">=1.26,<3",pypi,2.6.0,NVD,409,automation_dataset,main
+CVE-2025-66418,High,urllib3,">=1.26,<3",pypi,2.6.0,NVD,770,automation_dataset,main
+CVE-2023-43804,High,urllib3,">=1.26,<3",pypi,"2.0.6, 1.26.17, 644124ecd0b6e417c527191f866daa05a5a2056d",NVD,200,automation_dataset,main
+CVE-2021-33503,High,urllib3,">=1.26,<3",pypi,1.26.5,NVD,400,automation_dataset,main
+GHSA-8988-9cw3-xx77,High,urllib3,">=1.26,<3",pypi,2.8.0,GHSA,"440, 295",automation_dataset,main
+GHSA-vxq7-64xx-v4gw,High,urllib3,">=1.26,<3",pypi,2.8.0,GHSA,770,automation_dataset,main
+CVE-2026-44431,Medium,urllib3,">=1.26,<3",pypi,2.7.0,NVD,200,automation_dataset,main
+CVE-2025-50182,Medium,urllib3,">=1.26,<3",pypi,2.5.0,NVD,601,automation_dataset,main
+CVE-2025-50181,Medium,urllib3,">=1.26,<3",pypi,2.5.0,NVD,601,automation_dataset,main
+CVE-2024-37891,Medium,urllib3,">=1.26,<3",pypi,"2.2.2, 1.26.19",NVD,669,automation_dataset,main
+CVE-2023-45803,Medium,urllib3,">=1.26,<3",pypi,"2.0.7, 1.26.18, 4e98d57809dacab1cbe625fddeec1a290c478ea9",NVD,200,automation_dataset,main
+CVE-2021-28363,Medium,urllib3,">=1.26,<3",pypi,"1.26.4, 8d65ea1ecf6e2cdc27d42124e587c1b83a3118b0",NVD,295,automation_dataset,main
+GHSA-gh4c-6fx4-qh6g,Medium,urllib3,">=1.26,<3",pypi,2.8.0,GHSA,835,automation_dataset,main
+CVE-2018-20060,Critical,urllib3,1.22,pypi,1.23,NVD,200,automation_dataset,main
+CVE-2026-21441,High,urllib3,1.22,pypi,2.6.3,NVD,409,automation_dataset,main
+CVE-2025-66471,High,urllib3,1.22,pypi,2.6.0,NVD,409,automation_dataset,main
+CVE-2023-43804,High,urllib3,1.22,pypi,"2.0.6, 1.26.17",NVD,200,automation_dataset,main
+CVE-2019-11324,High,urllib3,1.22,pypi,1.24.2,NVD,295,automation_dataset,main
+GHSA-vxq7-64xx-v4gw,High,urllib3,1.22,pypi,2.8.0,GHSA,770,automation_dataset,main
+CVE-2025-50181,Medium,urllib3,1.22,pypi,2.5.0,NVD,601,automation_dataset,main
+CVE-2024-37891,Medium,urllib3,1.22,pypi,"2.2.2, 1.26.19",NVD,669,automation_dataset,main
+CVE-2023-45803,Medium,urllib3,1.22,pypi,"2.0.7, 1.26.18",NVD,200,automation_dataset,main
+CVE-2020-26137,Medium,urllib3,1.22,pypi,1.25.9,NVD,74,automation_dataset,main
+CVE-2019-11236,Medium,urllib3,1.22,pypi,1.24.3,NVD,93,automation_dataset,main
+CVE-2018-25091,Medium,urllib3,1.22,pypi,1.24.2,NVD,"601, 200",automation_dataset,main
+CVE-2023-37920,Critical,certifi,">=2023.5.7,<=2026.10.23",pypi,2023.7.22,NVD,345,automation_dataset,main
+GHSA-6q48-6c7w-9gw2,Critical,certifi,">=2023.5.7,<=2026.10.23",pypi,2026.10.19,GHSA,295,automation_dataset,main
+CVE-2024-39689,High,certifi,">=2023.5.7,<=2026.10.23",pypi,2024.7.4,NVD,345,automation_dataset,main
+CVE-2025-27516,High,Jinja2,2.11.2,pypi,3.1.6,NVD,1336,automation_dataset,main
+GHSA-q2x7-8rv6-6q7h,High,Jinja2,2.11.2,pypi,3.1.5,GHSA,693,automation_dataset,main
+CVE-2024-22195,Medium,Jinja2,2.11.2,pypi,3.1.3,NVD,79,automation_dataset,main
+CVE-2020-28493,Medium,Jinja2,2.11.2,pypi,2.11.3,NVD,400,automation_dataset,main
+GHSA-h75v-3vvj-5mfj,Medium,Jinja2,2.11.2,pypi,3.1.4,GHSA,79,automation_dataset,main
+CVE-2024-3651,High,idna,">=2.5,<4",pypi,3.7,NVD,400,automation_dataset,main
+CVE-2026-45409,Medium,idna,">=2.5,<4",pypi,3.15,NVD,1333,automation_dataset,main
+CVE-2026-54058,Critical,Pillow,10.1.0,pypi,12.3.0,NVD,125,automation_dataset,main
+GHSA-332p-7hrc-92wf,Critical,Pillow,10.1.0,pypi,13.0.0,GHSA,122,automation_dataset,main
+GHSA-5x8w-8jj5-q52h,Critical,Pillow,10.1.0,pypi,13.0.0,GHSA,"787, 122",automation_dataset,main
+GHSA-8g5g-8vmr-9782,Critical,Pillow,10.1.0,pypi,13.0.0,GHSA,122,automation_dataset,main
+GHSA-w889-685w-c8fh,Critical,Pillow,10.1.0,pypi,13.0.0,GHSA,"88, 78",automation_dataset,main
+CVE-2026-59204,High,Pillow,10.1.0,pypi,12.3.0,NVD,"789, 770",automation_dataset,main
+CVE-2026-59198,High,Pillow,10.1.0,pypi,12.3.0,NVD,125,automation_dataset,main
+CVE-2023-50447,High,Pillow,10.1.0,pypi,10.2.0,NVD,"95, 94",automation_dataset,main
+GHSA-22hg-r758-rrw9,High,Pillow,10.1.0,pypi,13.0.0,GHSA,835,automation_dataset,main
+GHSA-27h8-gf7j-v5hc,High,Pillow,10.1.0,pypi,13.0.0,GHSA,476,automation_dataset,main
+GHSA-3j72-p6qg-6xp7,High,Pillow,10.1.0,pypi,13.0.0,GHSA,835,automation_dataset,main
+GHSA-45hq-cxwh-f6vc,High,Pillow,10.1.0,pypi,12.3.0,GHSA,789,automation_dataset,main
+GHSA-58r4-6rv3-gfh8,High,Pillow,10.1.0,pypi,13.0.0,GHSA,787,automation_dataset,main
+GHSA-5x94-69rx-g8h2,High,Pillow,10.1.0,pypi,12.3.0,GHSA,789,automation_dataset,main
+GHSA-5xm2-6676-qcp9,High,Pillow,10.1.0,pypi,13.0.0,GHSA,789,automation_dataset,main
+GHSA-65qm-jvmh-6pqg,High,Pillow,10.1.0,pypi,13.0.0,GHSA,400,automation_dataset,main
+GHSA-6r8x-57c9-28j4,High,Pillow,10.1.0,pypi,12.3.0,GHSA,"787, 190",automation_dataset,main
+GHSA-7mwm-ghpf-9vrm,High,Pillow,10.1.0,pypi,13.0.0,GHSA,416,automation_dataset,main
+GHSA-8v84-f9pq-wr9x,High,Pillow,10.1.0,pypi,12.3.0,GHSA,789,automation_dataset,main
+GHSA-9hw9-ch79-4vh6,High,Pillow,10.1.0,pypi,12.3.0,GHSA,787,automation_dataset,main
+GHSA-9v9v-9qvf-h2hj,High,Pillow,10.1.0,pypi,13.0.0,GHSA,125,automation_dataset,main
+GHSA-c6hw-5grf-ff96,High,Pillow,10.1.0,pypi,13.0.0,GHSA,"126, 125",automation_dataset,main
+GHSA-f2g6-542v-9j58,High,Pillow,10.1.0,pypi,13.0.0,GHSA,835,automation_dataset,main
+GHSA-g7cr-3p24-7wf7,High,Pillow,10.1.0,pypi,13.0.0,GHSA,787,automation_dataset,main
+GHSA-g842-9rc4-69pw,High,Pillow,10.1.0,pypi,13.0.0,GHSA,"409, 400",automation_dataset,main
+GHSA-gg2r-wvfm-q9rx,High,Pillow,10.1.0,pypi,13.0.0,GHSA,409,automation_dataset,main
+GHSA-j4m9-6w36-pw47,High,Pillow,10.1.0,pypi,13.0.0,GHSA,"763, 457",automation_dataset,main
+GHSA-jg86-v3jv-hrpm,High,Pillow,10.1.0,pypi,13.0.0,GHSA,407,automation_dataset,main
+GHSA-jjj6-mw9f-p565,High,Pillow,10.1.0,pypi,12.3.0,GHSA,"770, 400",automation_dataset,main
+GHSA-mrfp-p49p-3hf2,High,Pillow,10.1.0,pypi,13.0.0,GHSA,"407, 400",automation_dataset,main
+GHSA-p4wg-p73j-c528,High,Pillow,10.1.0,pypi,13.0.0,GHSA,674,automation_dataset,main
+GHSA-pchr-8j38-3x4p,High,Pillow,10.1.0,pypi,13.0.0,GHSA,125,automation_dataset,main
+GHSA-phj9-mv4w-65pm,High,Pillow,10.1.0,pypi,12.3.0,GHSA,789,automation_dataset,main
+GHSA-q45j-58j2-45rg,High,Pillow,10.1.0,pypi,13.0.0,GHSA,908,automation_dataset,main
+GHSA-xj96-63gp-2gmr,High,Pillow,10.1.0,pypi,12.3.0,GHSA,190,automation_dataset,main
+GHSA-xvh5-g6gv-559v,High,Pillow,10.1.0,pypi,13.0.0,GHSA,686,automation_dataset,main
+CVE-2026-42310,Medium,Pillow,10.1.0,pypi,12.2.0,NVD,835,automation_dataset,main
+CVE-2026-42308,Medium,Pillow,10.1.0,pypi,12.2.0,NVD,190,automation_dataset,main
+CVE-2024-28219,Medium,Pillow,10.1.0,pypi,10.3.0,NVD,"680, 676, 120",automation_dataset,main
+GHSA-24rc-8hj2-v98c,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,"770, 400",automation_dataset,main
+GHSA-254f-3936-288h,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,835,automation_dataset,main
+GHSA-4558-3h8r-v8xp,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,126,automation_dataset,main
+GHSA-462x-pgg6-55fp,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,122,automation_dataset,main
+GHSA-4rm8-3hmm-39fg,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,190,automation_dataset,main
+GHSA-4x4j-2g7c-83w6,Medium,Pillow,10.1.0,pypi,12.3.0,GHSA,78,automation_dataset,main
+GHSA-74r2-7ff9-mjj2,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,407,automation_dataset,main
+GHSA-fc9g-5qg7-mf45,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,407,automation_dataset,main
+GHSA-p8hx-v2p6-rp84,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,"409, 400",automation_dataset,main
+GHSA-rfgq-q3w2-pmv2,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,457,automation_dataset,main
+GHSA-xgh8-jp6q-p5x8,Medium,Pillow,10.1.0,pypi,13.0.0,GHSA,1333,automation_dataset,main
+CVE-2026-112899,None,Pillow,10.1.0,pypi,13.0.0,NVD,770,automation_dataset,main
+CVE-2020-14343,Critical,PyYAML,5.0,pypi,5.4,NVD,20,automation_dataset,main
+CVE-2017-18342,Critical,PyYAML,5.0,pypi,5.1,NVD,502,automation_dataset,main
+CVE-2026-25645,Medium,requests,2.31.0,pypi,2.33.0,NVD,377,automation_dataset,main
+GHSA-9hjg-9r4m-mvj7,Medium,requests,2.31.0,pypi,2.32.4,GHSA,522,automation_dataset,main
+GHSA-9wx4-h78v-vm56,Medium,requests,2.31.0,pypi,2.32.0,GHSA,670,automation_dataset,main
+CVE-2015-1828,Medium,http,0.6.1,rubygems,"0.7.3, 0.6.4",NVD,200,automation_dataset,main
+CVE-2020-10663,High,json,1.8.1,rubygems,2.3.0,NVD,20,automation_dataset,main
+CVE-2014-10077,High,i18n,0.6.9,rubygems,0.8.0,NVD,20,automation_dataset,main
+CVE-2025-61921,High,sinatra,1.1.4,rubygems,4.2.0,NVD,"1333, 400",automation_dataset,main
+CVE-2022-29970,High,sinatra,1.1.4,rubygems,2.2.0,NVD,"426, 22",automation_dataset,main
+GHSA-hxx2-7vcw-mqr3,Medium,sinatra,1.1.4,rubygems,4.1.0,GHSA,807,automation_dataset,main
+GHSA-28hh-pr2h-2w89,Low,sqlite3,1.3.9,rubygems,2.9.5,GHSA,416,automation_dataset,main
+CVE-2022-30123,Critical,rack,1.5.2,rubygems,"2.2.3.1, 2.1.4.1, 2.0.9.1",NVD,150,automation_dataset,main
+CVE-2026-34830,High,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",NVD,625,automation_dataset,main
+CVE-2026-34826,High,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",NVD,"770, 400",automation_dataset,main
+CVE-2026-34230,High,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",NVD,"407, 400",automation_dataset,main
+CVE-2025-27111,High,rack,1.5.2,rubygems,"3.1.11, 3.0.13, 2.2.12",NVD,"117, 93",automation_dataset,main
+CVE-2024-26146,High,rack,1.5.2,rubygems,"3.0.9.1, 2.2.8.1, 2.1.4.4, 2.0.9.4",NVD,1333,automation_dataset,main
+CVE-2024-26141,High,rack,1.5.2,rubygems,"3.0.9.1, 2.2.8.1",NVD,400,automation_dataset,main
+CVE-2024-25126,High,rack,1.5.2,rubygems,"3.0.9.1, 2.2.8.1",NVD,1333,automation_dataset,main
+CVE-2023-27530,High,rack,1.5.2,rubygems,"3.0.4.2, 2.2.6.3, 2.1.4.3, 2.0.9.3",NVD,"770, 400",automation_dataset,main
+CVE-2022-44570,High,rack,1.5.2,rubygems,"3.0.4.1, 2.2.6.2, 2.1.4.2, 2.0.9.2",NVD,"1333, 400",automation_dataset,main
+CVE-2022-30122,High,rack,1.5.2,rubygems,"2.2.3.1, 2.1.4.1, 2.0.9.1",NVD,"1333, 400",automation_dataset,main
+CVE-2020-8184,High,rack,1.5.2,rubygems,"2.2.3, 2.1.4",NVD,"784, 20",automation_dataset,main
+CVE-2020-8161,High,rack,1.5.2,rubygems,2.1.3,NVD,"548, 22",automation_dataset,main
+GHSA-625h-95r8-8xpm,High,rack,1.5.2,rubygems,2.2.18,GHSA,"770, 400",automation_dataset,main
+GHSA-6xw4-3v39-52mm,High,rack,1.5.2,rubygems,"3.2.3, 3.1.18, 2.2.20",GHSA,400,automation_dataset,main
+GHSA-7wqh-767x-r66v,High,rack,1.5.2,rubygems,"3.1.12, 3.0.14, 2.2.13",GHSA,23,automation_dataset,main
+GHSA-8vqr-qjwx-82mw,High,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",GHSA,"770, 400",automation_dataset,main
+GHSA-gjh7-p2fx-99vx,High,rack,1.5.2,rubygems,"3.1.14, 3.0.16, 2.2.14",GHSA,400,automation_dataset,main
+GHSA-h2jq-g4cq-5ppq,High,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",GHSA,"200, 187",automation_dataset,main
+GHSA-mxw3-3hh2-x2mh,High,rack,1.5.2,rubygems,"3.2.5, 3.1.20, 2.2.22",GHSA,"548, 22",automation_dataset,main
+GHSA-p543-xpfm-54cp,High,rack,1.5.2,rubygems,"3.2.2, 3.1.17, 2.2.19",GHSA,400,automation_dataset,main
+GHSA-w9pc-fmgc-vxvw,High,rack,1.5.2,rubygems,"3.2.2, 3.1.17, 2.2.19",GHSA,400,automation_dataset,main
+GHSA-wpv5-97wm-hp9c,High,rack,1.5.2,rubygems,"3.2.2, 3.1.17, 2.2.19",GHSA,400,automation_dataset,main
+CVE-2026-34831,Medium,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",NVD,"135, 130",automation_dataset,main
+CVE-2026-26961,Medium,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",NVD,436,automation_dataset,main
+CVE-2025-61780,Medium,rack,1.5.2,rubygems,"3.2.3, 3.1.18, 2.2.20",NVD,"913, 441, 200",automation_dataset,main
+CVE-2025-25184,Medium,rack,1.5.2,rubygems,"3.1.10, 3.0.12, 2.2.11",NVD,"117, 93",automation_dataset,main
+CVE-2019-16782,Medium,rack,1.5.2,rubygems,"2.0.8, 1.6.12",NVD,"208, 203",automation_dataset,main
+CVE-2018-16471,Medium,rack,1.5.2,rubygems,"2.0.6, 1.6.11",NVD,79,automation_dataset,main
+CVE-2015-3225,Medium,rack,1.5.2,rubygems,"1.6.2, 1.5.4",NVD,,automation_dataset,main
+GHSA-7mqq-6cf9-v2qp,Medium,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",GHSA,625,automation_dataset,main
+GHSA-q4qf-9j86-f5mh,Medium,rack,1.5.2,rubygems,"3.2.6, 3.1.21, 2.2.23",GHSA,180,automation_dataset,main
+GHSA-vpfw-47h7-xj4g,Medium,rack,1.5.2,rubygems,2.2.14,GHSA,"613, 367, 362",automation_dataset,main
+GHSA-whrj-4476-wvmp,Medium,rack,1.5.2,rubygems,"3.2.5, 3.1.20, 2.2.22",GHSA,79,automation_dataset,main
+CVE-2022-31163,High,tzinfo,0.3.39,rubygems,"1.2.10, 0.3.61",NVD,"23, 22",automation_dataset,main
+CVE-2026-33176,High,activesupport,3.2.18,rubygems,"8.1.2.1, 8.0.4.1, 7.2.3.1",NVD,"770, 400",automation_dataset,main
+CVE-2023-22796,High,activesupport,3.2.18,rubygems,"7.0.4.1, 6.1.7.1",NVD,1333,automation_dataset,main
+CVE-2026-33170,Medium,activesupport,3.2.18,rubygems,"8.1.2.1, 8.0.4.1, 7.2.3.1",NVD,79,automation_dataset,main
+CVE-2026-33169,Medium,activesupport,3.2.18,rubygems,"8.1.2.1, 8.0.4.1, 7.2.3.1",NVD,"1333, 400",automation_dataset,main
+CVE-2015-3227,Medium,activesupport,3.2.18,rubygems,"4.2.2, 4.1.11, 3.2.22",NVD,,automation_dataset,main
+CVE-2015-3226,Medium,activesupport,3.2.18,rubygems,"4.2.2, 4.1.11, 3.2.22.5",NVD,79,automation_dataset,main
+GHSA-pj73-v5mw-pm9j,Medium,activesupport,3.2.18,rubygems,"7.0.4.3, 6.1.7.3",GHSA,79,automation_dataset,main
+CVE-2022-32224,Critical,activerecord,3.2.18,rubygems,"7.0.3.1, 6.1.6.1, 6.0.5.1, 5.2.8.1",NVD,502,automation_dataset,main
+CVE-2022-44566,High,activerecord,3.2.18,rubygems,"7.0.4.1, 6.1.7.1",NVD,400,automation_dataset,main
+CVE-2014-3482,High,activerecord,3.2.18,rubygems,3.2.19,NVD,89,automation_dataset,main
+CVE-2015-7577,Medium,activerecord,3.2.18,rubygems,"5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1",NVD,284,automation_dataset,main
+CVE-2013-3221,Medium,activerecord,3.2.18,rubygems,4.2.0,NVD,"89, 20",automation_dataset,main
+GHSA-76r7-hhxj-r776,Medium,activerecord,3.2.18,rubygems,"8.0.2.1, 7.2.2.2, 7.1.5.2",GHSA,150,automation_dataset,main
+CVE-2021-32740,High,addressable,2.3.6,rubygems,2.8.0,NVD,400,automation_dataset,main
+GHSA-h27x-rffw-24p4,High,addressable,2.3.6,rubygems,2.9.0,GHSA,1333,automation_dataset,main
